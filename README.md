@@ -8,6 +8,8 @@ Hello and welcome to this GitHub repository! This space is dedicated to showcasi
 
 ## 📁 Projects Overview
 
+This repository is structured to provide clear access to individual projects, each meticulously documented to explain objectives, methodologies, and key insights. Here's a glimpse into the work you'll find:
+
 ### 1. 📊 Netflix Data: Cleaning, Analysis, and Visualization
 
 - **Difficulty Level:** Intermediate  
