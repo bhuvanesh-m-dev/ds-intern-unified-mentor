@@ -55,7 +55,7 @@ I am committed to continuous learning and pushing the boundaries of technical ca
 
 ## 🤝 Connect
 
-I’m always eager to connect with fellow data science enthusiasts...
+I'm always eager to connect with fellow data science enthusiasts, machine learning practitioners, and cybersecurity professionals. Collaboration and knowledge sharing are key to growth in these dynamic fields. Feel free to reach out!
 
 ## 🚀 Getting Started
 
