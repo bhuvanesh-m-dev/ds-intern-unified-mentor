@@ -13,7 +13,7 @@ This repository is structured to provide clear access to individual projects, ea
 ### 1. 📊 Netflix Data: Cleaning, Analysis, and Visualization
 
 - **Difficulty Level:** Intermediate  
-- **Description:** This project delves into a comprehensive Netflix content dataset, employing robust data cleaning techniques...  
+- **Description:** This project delves into a comprehensive Netflix content dataset, employing robust data cleaning techniques to ensure data quality. It then proceeds with an in-depth Exploratory Data Analysis (EDA) to uncover fascinating trends in content distribution, popular genres, and the evolution of content additions over time. The project culminates in insightful visualizations that provide a clear narrative of Netflix's content landscape and identifies top contributing directors and countries. 
 - **Tools Used:** Python, ML, SQL, Excel  
 - **Skills Demonstrated:** Data Cleaning, EDA, Data Visualization, Python, SQL, Excel  
 
