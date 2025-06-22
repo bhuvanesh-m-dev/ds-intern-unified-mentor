@@ -67,4 +67,4 @@ I'm always eager to connect with fellow data science enthusiasts, machine learni
 
 ## 📰 License
 
-All projects and code within this repository are open-sourced under the[MIT License](https://opensource.org/licenses/MIT).This means you are free to use, modify, and distribute the code, provided the original license and copyright notice are included.
+All projects and code within this repository are open-sourced under the [MIT License](https://opensource.org/licenses/MIT).This means you are free to use, modify, and distribute the code, provided the original license and copyright notice are included.
