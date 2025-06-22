@@ -62,7 +62,7 @@ I'm always eager to connect with fellow data science enthusiasts, machine learni
 1. **Clone the repository:**  
    `git clone https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor.git`
 2. **Navigate to a project folder:**  
-   `cd bhuvanesh-m-dev/netflix-data-analysis`
+   `cd bhuvanesh-m-dev/netflix-data-analysis # or customer-satisfaction-prediction`
 3. **Refer to the project-specific README.md:** Each folder contains setup instructions.
 
 ## 📰 License
