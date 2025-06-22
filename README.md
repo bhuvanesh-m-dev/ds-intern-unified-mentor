@@ -26,6 +26,8 @@ This repository is structured to provide clear access to individual projects, ea
 
 ## 🛠️ Technologies & Core Skills
 
+The projects in this portfolio are built using a modern data science stack, showcasing proficiency in various programming languages, libraries, and tools:
+
 - **Languages & Core Domains:** Python, Machine Learning, SQL, Excel  
 - **Data Analysis & Manipulation:** Pandas, NumPy  
 - **Data Visualization:** Matplotlib, Seaborn, WordCloud  
