@@ -37,8 +37,21 @@ The projects in this portfolio are built using a modern data science stack, show
 
 ## 🚀 Future Scope & Learning Path
 
-- **Deepening ML Expertise:** Exploring and implementing more advanced ML models...  
-- **Interactive Applications:** Developing dashboards using Streamlit or Flask  
+I am committed to continuous learning and pushing the boundaries of technical capabilities. Future endeavors and planned expansions for these projects include:
+
+- **Deepening Machine Learning Expertise:** Exploring and implementing more advanced machine learning models, including ensemble methods and deep learning architectures (e.g., using TensorFlow or PyTorch).
+
+- **Integration of Deep Learning:** Applying neural networks for tasks such as image recognition (Computer Vision) or natural language understanding (NLP) in relevant datasets.
+
+- **Interactive Applications:** Developing interactive dashboards and web applications (e.g., using Dash, Streamlit, or Flask) to make insights more accessible and actionable for end-users.
+
+- **Real-time Data Processing:** Investigating technologies for handling streaming data and building real-time prediction systems.
+
+- **Deployment Strategies:** Learning about deploying machine learning models to cloud platforms (e.g., AWS, GCP, Azure) for scalable solutions.
+
+- **Further Exploration into NLP & CV:** Engaging in projects that specifically focus on text analysis, sentiment analysis, image classification, and object detection.
+
+- **Reinforcement Learning:** Beginning to explore the fundamentals and applications of reinforcement learning in various scenarios. 
 
 ## 🤝 Connect
 
