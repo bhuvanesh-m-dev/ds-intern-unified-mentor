@@ -20,7 +20,7 @@ This repository is structured to provide clear access to individual projects, ea
 ### 2. 📈 Customer Satisfaction Prediction
 
 - **Difficulty Level:** Advanced  
-- **Description:** This project focuses on the development of a sophisticated machine learning model...  
+- **Description:** This project focuses on the development of a sophisticated machine learning model designed to predict customer satisfaction. It will involve tackling real-world challenges such as advanced data preprocessing, meticulous feature engineering to extract meaningful signals from raw data, and a systematic approach to model selection, training, and rigorous evaluation. The ultimate goal is to build a highly accurate predictive tool that can potentially inform business strategies for enhanced customer experience and retention. 
 - **Tools Used:** VS Code, Jupyter Notebook  
 - **Skills Demonstrated:** Machine Learning, Python, SQL, Excel, Model Training  
 
