@@ -2,7 +2,9 @@
 
 ## 🌟 Welcome to This Portfolio!
 
-Hello and welcome to this GitHub repository! This space is dedicated to showcasing hands-on projects in the exciting fields of Data Science and Machine Learning...
+Hello and welcome to this GitHub repository! This space is dedicated to showcasing hands-on projects in the exciting fields of Data Science and Machine Learning. As a Computer Science and Engineering (CSE) student, this repository contains project work undertaken as part of a Data Science internship with Unified Mentor. I am deeply passionate about leveraging Python for advanced applications in Data Science (DS), Machine Learning (ML), Artificial Intelligence (AI), and Deep Learning (DL), and I am thrilled to be exploring these cutting-edge technologies.
+
+
 
 ## 📁 Projects Overview
 
