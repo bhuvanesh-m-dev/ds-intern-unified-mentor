@@ -1,4 +1,4 @@
-# Data Science & Machine Learning Internship Portfolio
+# Data Science Internship 
 
 ## 🌟 Welcome to This Portfolio!
 
