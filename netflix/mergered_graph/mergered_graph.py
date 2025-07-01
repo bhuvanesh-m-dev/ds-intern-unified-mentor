@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-data = pd.read_csv("/home/bhuvanesh-m-ubuntu/Desktop/Netflix/files/cleaned_netflix.csv")
+data = pd.read_csv("netflix/files/cleaned_netflix.csv")
 
 # Merge both Movies and TV Shows per year in a single graph
 print('Graph for total number of Movies and TV Shows released per year in Netflix OTT')
