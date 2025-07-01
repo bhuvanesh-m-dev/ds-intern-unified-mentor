@@ -32,7 +32,6 @@ plt.title('Distribution of Content Released on Netflix by Year (South Korea)')
 plt.xlabel('Release Year')
 plt.ylabel('Count')
 plt.tight_layout()
-plt.savefig("release_year_distribution_south_korea.png", dpi=300)
 plt.xticks(
     ticks=range(int(data_korea['release_year'].min()), int(data_korea['release_year'].max()) + 1, 2),
     rotation=45,
