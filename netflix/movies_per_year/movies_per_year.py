@@ -7,7 +7,7 @@ print('''Disclaimer: The Netflix dataset includes Thunderbolt (1947), a document
 
 
 
-data = pd.read_csv("/home/bhuvanesh-m-ubuntu/Desktop/Netflix/files/cleaned_netflix.csv")
+data = pd.read_csv("netflix/files/cleaned_netflix.csv")
 
 
 print('Graph for total number of Movies released per year in Netflix OTT')
