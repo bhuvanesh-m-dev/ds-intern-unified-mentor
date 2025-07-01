@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from scipy import stats
 
-data = pd.read_csv("/home/bhuvanesh-m-ubuntu/Desktop/Netflix/files/cleaned_netflix.csv")
+data = pd.read_csv("netflix/files/cleaned_netflix.csv")
 
 # Filter for USA only
 data_usa = data[data['country'].str.contains('United States', na=False)]
