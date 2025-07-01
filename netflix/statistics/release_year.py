@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from scipy import stats
 
-data = pd.read_csv("/home/bhuvanesh-m-ubuntu/Desktop/Netflix/files/cleaned_netflix.csv")
+data = pd.read_csv("netflix/files/cleaned_netflix.csv")
 
 # Use date_added for extracting year, month, day
 data['date_added'] = pd.to_datetime(data['date_added'], errors='coerce')
