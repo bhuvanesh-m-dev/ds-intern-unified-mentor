@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 print('''Disclaimer: The Netflix dataset includes Thunderbolt (1947), a documentary film originally released in 1947, predating Netflix's founding in 1997. This film was added to Netflix’s catalog at a later date as part of their curated content, which may include classic or historical titles. The "release date" in the dataset reflects the original theatrical release, not the date it was adopted by Netflix for streaming.''')
 
-data = pd.read_csv("/home/bhuvanesh-m-ubuntu/Desktop/Netflix/files/cleaned_netflix.csv")
+data = pd.read_csv("netflix/files/cleaned_netflix.csv")
 
 # Filter for USA only
 data_usa = data[data['country'].str.contains('United States', na=False)]
