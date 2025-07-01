@@ -40,13 +40,10 @@ plt.xticks(
     ha='right'
 )
 
-plt.savefig("release_year_distribution_usa.png", dpi=300)
 
 # Save the generated graph 
 ans = input("Do you want to save the generated graph?{y/n} :").lower()
 if ans in ('y','yes'):
-    import os
-    os.makedirs("img/statistics/USA", exist_ok=True)
     plt.savefig("img/statistics/USA/release_year.png", dpi=300)
     print('''Visit img folder to view the saved graph''')
 else:
