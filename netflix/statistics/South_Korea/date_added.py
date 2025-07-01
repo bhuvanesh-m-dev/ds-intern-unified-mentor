@@ -32,7 +32,6 @@ plt.title('Distribution of Content Added to Netflix by Year (South Korea)')
 plt.xlabel('Year Added')
 plt.ylabel('Count')
 plt.tight_layout()
-plt.savefig("year_added_distribution_south_korea.png", dpi=300)
 # Save the generated graph 
 ans = input("Do you want to save the generated graph?{y/n} :").lower()
 if ans in ('y','yes'):
