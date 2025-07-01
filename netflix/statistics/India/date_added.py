@@ -32,13 +32,12 @@ plt.title('Distribution of Content Added to Netflix by Year (India)')
 plt.xlabel('Year Added')
 plt.ylabel('Count')
 plt.tight_layout()
-plt.savefig("year_added_distribution_india.png", dpi=300)
 # Save the generated graph 
 ans = input("Do you want to save the generated graph?{y/n} :").lower()
 if ans in ('y','yes'):
     import os
     os.makedirs("img/statistics", exist_ok=True)
-    plt.savefig("img/statistics/date_added_india.png", dpi=300)
+    plt.savefig("img/statistics/India/date_added_india.png", dpi=300)
     print('''Visit img folder to view the saved graph''')
 else:
     print('''Generated graph will not save!''')
