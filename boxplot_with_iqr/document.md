@@ -136,7 +136,7 @@ plt.show()
 
 ## 📈 Output
 
-![Boxplot with IQR](boxplot_with_iqr.png)
+!([boxplot_with_iqr.png](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/boxplot_with_iqr/img/boxplot_with_iqr.png))
 
 This boxplot shows:
 
