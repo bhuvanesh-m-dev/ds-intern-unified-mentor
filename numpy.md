@@ -2,7 +2,7 @@
 
 import numpy as np  # Importing NumPy library and aliasing it as np
 
-# ------------------------
+--
 # 1. Introduction
 # ------------------------
 # NumPy is a Python library used for working with arrays.
