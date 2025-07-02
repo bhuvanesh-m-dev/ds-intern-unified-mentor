@@ -13,6 +13,8 @@ This project visualizes the distribution of a simple dataset using a **boxplot**
 
 These are annotated on the boxplot for clarity.
 
+![IQR Schematic](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/boxplot_with_iqr/img/iqr/iqr.png)
+
 ## 📈 Output
 
 The boxplot helps visualize:
