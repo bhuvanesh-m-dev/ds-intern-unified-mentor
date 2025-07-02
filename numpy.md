@@ -18,7 +18,7 @@ print("Range Array:", range_array)
 # 4. Array Indexing 
 print("First element:", array[0])  
 
-# --- 5. Array Slicing ---
+# 5. Array Slicing
 print("Sliced Array (1 to 3):", array[1:4])  
 
 # 6. Data Types 
