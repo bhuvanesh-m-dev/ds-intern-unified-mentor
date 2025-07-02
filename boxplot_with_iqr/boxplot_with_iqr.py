@@ -31,4 +31,10 @@ plt.text(x_annot_left, maximum, f"Max: {maximum}", va='center', color='blue')
 plt.text(x_annot_right, median + 2, f"IQR: {iqr}", va='center', color='purple')  
 
 plt.tight_layout()
+ans = input("Do you want to save the generated graph?{y/n} :").lower()
+if ans in ('y', 'yes'):
+    plt.savefig("img/boxplot_with_iqr.png", dpi=300)
+    print('''Visit img folder to view the saved graph as boxplot_with_iqr.png''')
+else:
+    print('''Generated graph will not save!''')
 plt.show()
