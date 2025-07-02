@@ -1,10 +1,8 @@
-
-
+import matplotlib.patches as patches
 import matplotlib.pyplot as plt
 
 plt.figure(figsize=(8, 6))
 
-import matplotlib.patches as patches
 ax = plt.gca()
 box_rect = patches.Rectangle((2, 1.85), 4, 0.3, linewidth=1.5, edgecolor='blue', facecolor='lightblue', label='IQR (Q1 to Q3)')
 ax.add_patch(box_rect)
