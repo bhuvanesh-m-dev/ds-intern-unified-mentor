@@ -144,13 +144,3 @@ This boxplot shows:
 * Central tendency (median)
 * Spread (IQR)
 * Outliers (beyond 1.5×IQR)
-
----
-
-## 🚀 Run It
-
-```bash
-python boxplot_with_iqr.py
-```
-
-Use this script to understand IQR-based distribution in your own datasets.
