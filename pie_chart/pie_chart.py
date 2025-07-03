@@ -14,8 +14,7 @@ colors = [
 
 fig, ax = plt.subplots(figsize=(8, 8))
 wedges, texts = ax.pie(
-    percentages,clear
-
+    percentages,
     labels=None,
     autopct=None,
     startangle=140,
