@@ -1,88 +1,162 @@
+
+# NumPy Python Library Guide
+
+## 1. Introduction
+
+NumPy is a fundamental Python library for numerical computing. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on them efficiently.
+
+## 2. Getting Started
+
+Install NumPy using pip:
+
+```bash
+pip install numpy
+```
+
+Import NumPy in your Python script:
+
+```python
 import numpy as np
+```
 
-# 1. Introduction 
-NumPy is a library for numerical operations on arrays and matrices.
+## 3. Creating Arrays
 
-# 2. Getting Started 
-array = np.array([1, 2, 3, 4, 5])  
-print("Array:", array)  
+Create arrays of different types:
 
-# 3. Creating Arrays 
-zeros = np.zeros(5)  
-ones = np.ones((2, 3))  
-range_array = np.arange(0, 10, 2)  
-print("Zeros:", zeros)  
-print("Ones:\n", ones)  
-print("Range Array:", range_array)  
+```python
+array = np.array([1, 2, 3, 4, 5])
+zeros = np.zeros(5)
+ones = np.ones((2, 3))
+range_array = np.arange(0, 10, 2)
+print(array)
+print(zeros)
+print(ones)
+print(range_array)
+```
 
-# 4. Array Indexing 
-print("First element:", array[0])  
+## 4. Array Indexing & Slicing
 
-# 5. Array Slicing
-print("Sliced Array (1 to 3):", array[1:4])  
+Access elements and slices:
 
-# 6. Data Types 
-print("Data type:", array.dtype)  
+```python
+print(array[0])        # First element
+print(array[1:4])      # Elements from index 1 to 3
+```
 
-# 7. Copy vs View 
-copy_arr = array.copy()  
-view_arr = array.view()  
-copy_arr[0] = 100  
-view_arr[1] = 200  
-print("Original Array:", array)  
-print("Copy Array:", copy_arr)  
-print("View Array:", view_arr)  
+## 5. Data Types
 
-# 8. Array Shape 
-print("Shape:", array.shape)
+Check the data type of an array:
 
-# 9. Array Reshape 
-reshaped = np.reshape(np.arange(6), (2, 3))  
-print("Reshaped (2x3):\n", reshaped)
+```python
+print(array.dtype)
+```
 
-# 10. Array Iterating 
+## 6. Copy vs View
+
+Understand the difference between copying and viewing arrays:
+
+```python
+copy_arr = array.copy()
+view_arr = array.view()
+copy_arr[0] = 100
+view_arr[1] = 200
+print(array)      # Original array
+print(copy_arr)   # Copy (independent)
+print(view_arr)   # View (shares data)
+```
+
+## 7. Array Shape & Reshape
+
+Get and change the shape of arrays:
+
+```python
+print(array.shape)
+reshaped = np.reshape(np.arange(6), (2, 3))
+print(reshaped)
+```
+
+## 8. Iterating Arrays
+
+Loop through array elements:
+
+```python
 for x in array:
-    print("Element:", x)
+    print(x)
+```
 
-# 11. Array Join 
-arr1 = np.array([1, 2])  
-arr2 = np.array([3, 4])  
-joined = np.concatenate((arr1, arr2))  
-print("Joined Array:", joined)
+## 9. Joining & Splitting Arrays
 
-# 12. Array Split 
-split_arr = np.array_split(array, 3)  
-print("Split Array:", split_arr)
+Join and split arrays:
 
-# 13. Array Search 
-search_index = np.where(array == 3)  
-print("Index of 3:", search_index)
+```python
+arr1 = np.array([1, 2])
+arr2 = np.array([3, 4])
+joined = np.concatenate((arr1, arr2))
+split_arr = np.array_split(array, 3)
+print(joined)
+print(split_arr)
+```
 
-# 14. Array Sort 
-unsorted = np.array([5, 2, 9, 1])  
-sorted_arr = np.sort(unsorted)  
-print("Sorted Array:", sorted_arr)
+## 10. Searching & Sorting
 
-# 15. Array Filter
-filter_condition = array > 3  
-filtered = array[filter_condition]  
-print("Filtered (array > 3):", filtered)
+Find elements and sort arrays:
 
-# 16. Max, Min, Mean, Std 
-print("Max:", np.max(array))  
-print("Min:", np.min(array))  
-print("Mean:", np.mean(array))  
-print("Std Dev:", np.std(array))
+```python
+search_index = np.where(array == 3)
+unsorted = np.array([5, 2, 9, 1])
+sorted_arr = np.sort(unsorted)
+print(search_index)
+print(sorted_arr)
+```
 
-# 17. Element-wise Operations
-squared = array ** 2  
-print("Squared Elements:", squared)
+## 11. Filtering Arrays
 
-# 18. Matrix Operations
-matrix1 = np.array([[1, 2], [3, 4]])  
-matrix2 = np.array([[5, 6], [7, 8]])  
-product = np.dot(matrix1, matrix2)  
-print("Matrix Product:\n", product)
+Filter elements based on a condition:
 
-# 19. Matrix Transpose
-print("Transpose:\n", matrix1.T)  
+```python
+filtered = array[array > 3]
+print(filtered)
+```
+
+## 12. Aggregate Functions
+
+Find max, min, mean, and standard deviation:
+
+```python
+print(np.max(array))
+print(np.min(array))
+print(np.mean(array))
+print(np.std(array))
+```
+
+## 13. Element-wise Operations
+
+Apply operations to each element:
+
+```python
+squared = array ** 2
+print(squared)
+```
+
+## 14. Matrix Operations
+
+Work with 2D arrays (matrices):
+
+```python
+matrix1 = np.array([[1, 2], [3, 4]])
+matrix2 = np.array([[5, 6], [7, 8]])
+product = np.dot(matrix1, matrix2)
+print(product)
+```
+
+## 15. Matrix Transpose
+
+Transpose a matrix:
+
+```python
+print(matrix1.T)
+```
+
+---
+
+For more, visit the [official documentation](https://numpy.org/doc/).
