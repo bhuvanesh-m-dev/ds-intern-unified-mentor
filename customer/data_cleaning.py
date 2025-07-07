@@ -36,6 +36,6 @@ duplicate_count = data_cleaned.duplicated().sum()
 print(f"\nNumber of duplicates: {duplicate_count}")
 
 # Save the cleaned data to a new CSV file
-data_cleaned.to_csv("cleaned_customer_support_tickets.csv", index=False)
+data_cleaned.to_csv("data.csv", index=False)
 
-print("\nData cleaning complete. Cleaned data saved to 'cleaned_customer_support_tickets.csv'")
+print("\nData cleaning complete. Cleaned data saved to 'data.csv'")
