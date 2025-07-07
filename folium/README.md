@@ -8,13 +8,6 @@ Here, I learned how to use the `folium` library in Python to generate interactiv
 
 ---
 
-### 🧠 Extra Tips
-
-- ✅ **Use a thumbnail preview image** of the map (if iframe doesn’t render on GitHub):
-  
-  Take a screenshot of the map and upload it to your GitHub repo, then:
-
-```markdown
 [![Map Preview](map-thumbnail.png)](https://bhuvaneshm.in/internships/data-science/storage/map-by-folium/)
 
 
