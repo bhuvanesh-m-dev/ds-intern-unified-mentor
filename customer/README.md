@@ -62,7 +62,7 @@ Predict **Customer Satisfaction** and extract actionable insights using a variet
 - `pandas`, `numpy` for data processing
 - `matplotlib`, `seaborn` for visualization
 - `sklearn` for modeling and ML
-- `KMeans`, `RandomForestClassifier`, `LabelEncoder`, `StandardScaler`
+  
 
 ---
 
