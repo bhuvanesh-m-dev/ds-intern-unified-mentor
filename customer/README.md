@@ -72,24 +72,28 @@ Predict **Customer Satisfaction** and generate actionable insights via **EDA + M
 ### 🧯 Customer Age Group Distribution
 
 * Pie chart showing percentage breakdown across age brackets.
+![Customer Age Group Pie Chart](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/customer/img/age_group_analysis.png)
 
 ---
 
 ### 🎟️ Support Ticket Channel Analysis
 
 * Pie chart showing how customers reached support (Email, Chat, etc.).
+![Support Ticket Channel Pie Chart](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/customer/img/ticket_channel_analysis.png)
 
 ---
 
 ### 🌟 Satisfaction Rating Distribution
 
 * Bar chart showing how many customers rated satisfaction levels from 1 to 5.
+![Customer Satisfaction Bar Chart](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/customer/img/model_customer_satisfaction.png)
 
 ---
 
 ### 👥 Gender Distribution by Age Group
 
 * Line chart showing how each gender is distributed across 5-year age brackets.
+![Customer Gender Analysis Line Chart](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/customer/img/gender_analysis.png)
 
 ---
 
