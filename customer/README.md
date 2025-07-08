@@ -29,10 +29,6 @@ Refer to [`data_clean.md`](./data_clean.md) and [`data_cleaning.py`](./data_clea
 
 ## 💡 Objective
 
-### 🎯 Main Goal:
-
-Predict **Customer Satisfaction** and generate actionable insights via **EDA + ML**.
-
 ### 🔍 Sub-goals:
 
 * Understand trends across age and gender.
