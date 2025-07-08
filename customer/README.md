@@ -11,7 +11,7 @@ This repository contains a comprehensive **Data Science internship project** foc
 | `age_group_analysis/`           | Analyze support tickets across age brackets.              |
 | `channel_review/`               | Ticket channel performance and customer preference.       |
 | `gender_analysis/`              | Product preference by gender.            |
-| `model_customer_satisfaction/`  | Machine Learning model to predict satisfaction scores.    |
+| `model_customer_satisfaction/`  | Visualizes the distribution of customer satisfaction ratings using a bar chart.    |
 
 
 ---
