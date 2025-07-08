@@ -65,7 +65,7 @@ Refer to [`data_clean.md`](./data_clean.md) and [`data_cleaning.py`](./data_clea
 
 * Pie chart showing percentage breakdown across age brackets.
 ![Customer Age Group Pie Chart](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/customer/img/age_group_analysis.png)
-[`For more details.'](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/customer/age_group_analysis)
+[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/customer/age_group_analysis)
 
 ---
 
