@@ -24,7 +24,7 @@ colors = {
 
 for gender in colors.keys():
     if gender in age_gender_counts.columns:
-        ax.scatter(age_gender_counts.index, age_gender_counts[gender], color=colors[gender], label=gender, s=100, alpha=0.7, edgecolors='w')
+        ax.plot(age_gender_counts.index, age_gender_counts[gender], marker='o', linestyle='--', color=colors[gender], label=gender, alpha=0.7)
 
 ax.set_xlabel('Age Group', fontsize=14)
 ax.set_ylabel('Number of Customers', fontsize=14)
@@ -46,4 +46,3 @@ else:
     print('''Generated graph will not be saved!''')
 
 plt.show()
-
