@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import os
 
-df = pd.read_csv('/home/bhuvanesh-m-ubuntu/Desktop/customer/data.csv')
+df = pd.read_csv('customer/data.csv')
 
 platform_counts = df['Ticket Channel'].value_counts()
 
@@ -37,7 +37,7 @@ ax.legend(wedges, legend_labels, title="Channels", loc="upper right", bbox_to_an
 # Ask user if they want to save the figure
 ans = input("Do you want to save the generated graph? (y/n): ").lower()
 if ans in ('y', 'yes'):
-    save_path = '/home/bhuvanesh-m-ubuntu/Desktop/customer/img/ticket_channel_analysis.png'
+    save_path = 'img/ticket_channel_analysis.png'
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     plt.savefig(save_path, dpi=300, bbox_inches='tight')
     print(f"Graph saved to {save_path}")
