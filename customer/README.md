@@ -12,10 +12,7 @@ This repository contains a comprehensive **Data Science internship project** foc
 | `channel_review/`               | Ticket channel performance and customer preference.       |
 | `gender_analysis/`              | Product preference by gender.            |
 | `model_customer_satisfaction/`  | Machine Learning model to predict satisfaction scores.    |
-| `priority_resolution_analysis/` | Resolution time and priority-based analysis.              |
-| `product_analysis/`             | Top purchased products, product-wise satisfaction.        |
-| `ticket_trend_analysis/`        | Temporal and topical analysis of ticket trends.           |
-| `visualizations/`               | Central folder for charts, plots, and other visual media. |
+
 
 ---
 
