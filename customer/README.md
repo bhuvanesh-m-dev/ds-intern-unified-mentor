@@ -34,7 +34,7 @@ Refer to [`data_clean.md`](./data_clean.md) and [`data_cleaning.py`](./data_clea
 * Understand trends across age and gender.
 * Discover most-used and best-performing support channels.
 * Identify pain points in products.
-* Train predictive models for satisfaction scoring.
+
 
 ---
 
