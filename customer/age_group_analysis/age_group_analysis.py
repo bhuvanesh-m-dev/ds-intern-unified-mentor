@@ -3,15 +3,12 @@ import matplotlib.pyplot as plt
 import os
 df = pd.read_csv('customer/data.csv')
 
-# Define age bins and labels for 10-year groups from 1 to 100
 bins = range(0, 101, 10)
 labels = [f'{i+1}-{i+10}' for i in range(0, 100, 10)]
 df['Age Group'] = pd.cut(df['Customer Age'], bins=bins, labels=labels, right=True, include_lowest=True)
 
-# Group by 'Age Group' and count the occurrences
 age_group_counts = df['Age Group'].value_counts().sort_index()
 
-# Prepare data for the pie chart
 age_groups = age_group_counts.index.tolist()
 counts = age_group_counts.values
 percentages = (counts / counts.sum()) * 100
@@ -21,7 +18,6 @@ colors = [
     '#FFD662', '#034F84', '#F7786B', '#DE7A22'
 ]
 
-# Create the pie chart
 fig, ax = plt.subplots(figsize=(10, 10))
 wedges, texts = ax.pie(
     percentages,
@@ -35,7 +31,6 @@ wedges, texts = ax.pie(
 plt.title('Customer Age Group Distribution', fontsize=18)
 plt.tight_layout()
 
-# Create a custom legend
 legend_labels = []
 for group, pct in zip(age_groups, percentages):
     legend_labels.append(f"{group}: {pct:.2f}%")
