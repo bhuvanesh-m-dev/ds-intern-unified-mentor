@@ -73,21 +73,21 @@ Refer to [`data_clean.md`](./data_clean.md) and [`data_cleaning.py`](./data_clea
 
 * Pie chart showing how customers reached support (Email, Chat, etc.).
 ![Support Ticket Channel Pie Chart](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/customer/img/ticket_channel_analysis.png)
-
+[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/customer/channel_review)
 ---
 
 ### 🌟 Satisfaction Rating Distribution
 
 * Bar chart showing how many customers rated satisfaction levels from 1 to 5.
 ![Customer Satisfaction Bar Chart](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/customer/img/model_customer_satisfaction.png)
-
+[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/customer/model_customer_satisfaction)
 ---
 
 ### 👥 Gender Distribution by Age Group
 
 * Line chart showing how each gender is distributed across age brackets.
 ![Customer Gender Analysis Line Chart](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/customer/img/gender_analysis.png)
-
+[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/customer/gender_analysis)
 ---
 
 ### 📌 Planned & Upcoming Visuals
