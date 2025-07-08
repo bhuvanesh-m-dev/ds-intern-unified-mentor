@@ -90,44 +90,6 @@ Refer to [`data_clean.md`](./data_clean.md) and [`data_cleaning.py`](./data_clea
 [For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/customer/gender_analysis)
 ---
 
-### 📌 Planned & Upcoming Visuals
-
-> These will be included soon (or are in progress):
-
-* 📆 **Ticket Trends Over Time** (line plot or heatmap)
-* 🛍️ **Top Products and Ratings** (bar chart, grouped analysis)
-* 🚦 **Resolution Time vs Priority** (box plot / violin plot)
-* 🧹 **Customer Segments Overview** (scatter or cluster map)
-* 📈 **Feature Correlation Heatmap**
-* ⚙️ **Gender vs Rating** (stacked bar chart)
-
----
-
-## 🤖 ML Model: Satisfaction Predictor
-
-Located at: `model_customer_satisfaction/`
-
-**Steps:**
-
-1. Clean & preprocess the data
-2. Encode categorical features
-3. Scale features where necessary
-4. Split into train/test
-5. Train Random Forest
-6. Evaluate model (accuracy, confusion matrix)
-7. Plot feature importances
-
----
-
-## 🛠️ Future Enhancements
-
-* Build Streamlit/Flask dashboard for real-time interaction
-* Add automated EDA report (e.g., with `pandas-profiling`)
-* Include interactive charts (e.g., via `plotly`)
-* Push to Hugging Face or render via Spaces
-
----
-
 ## 📬 Contact
 
 For contributions, questions or feedback:  
