@@ -1,6 +1,6 @@
 # 🧠 Customer Support Ticket Analysis & Satisfaction Prediction
 
-This repository contains a comprehensive **Data Science internship project** focused on analyzing customer support ticket data and building predictive models for **customer satisfaction** using ML and EDA techniques.
+This repository contains a comprehensive **Data Science internship project** focused on analyzing customer support ticket data and building predictive models for **customer satisfaction**.
 
 ---
 
