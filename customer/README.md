@@ -92,7 +92,7 @@ Predict **Customer Satisfaction** and generate actionable insights via **EDA + M
 
 ### 👥 Gender Distribution by Age Group
 
-* Line chart showing how each gender is distributed across 5-year age brackets.
+* Line chart showing how each gender is distributed across age brackets.
 ![Customer Gender Analysis Line Chart](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/customer/img/gender_analysis.png)
 
 ---
