@@ -9,7 +9,7 @@ This project analyzes the **yearly trend of TV show releases** on the Netflix pl
 ![TV Shows Worldwide](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/TV_Shows_per_year/series_per_year.png)
 
 This graph illustrates the total number of TV shows released globally on Netflix, categorized by year.   
-[For more details.]
+[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/TV_Shows_per_year)
 
 ---
 
@@ -18,7 +18,7 @@ This graph illustrates the total number of TV shows released globally on Netflix
 ![TV Shows in India](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/TV_Shows_per_year/India/India.png)
 
 This graph highlights the rise of Indian series on Netflix, year by year.   
-[For more details.]
+[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/TV_Shows_per_year/India)
 
 ---
 
@@ -27,7 +27,7 @@ This graph highlights the rise of Indian series on Netflix, year by year.
 ![TV Shows in South Korea](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/TV_Shows_per_year/South_Korea/South_Korea.png)
 
 Korean dramas and series have seen significant growth. This plot shows how their presence on Netflix has evolved.  
-[For more details.]
+[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/TV_Shows_per_year/South_Korea)
 
 ---
 
@@ -36,7 +36,7 @@ Korean dramas and series have seen significant growth. This plot shows how their
 ![TV Shows in USA](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/TV_Shows_per_year/USA/USA.png)
 
 A consistent contributor to Netflix’s TV content, this graph shows annual U.S. series releases.   
-[For more details.]
+[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/TV_Shows_per_year/USA)
 
 ---
 
