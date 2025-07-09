@@ -57,11 +57,11 @@ plt.show()
 
 ## 🙋‍♂️ Author
 
-**Bhuvanesh M**
-🌐 [bhuvaneshm.in](https://bhuvaneshm.in)
-🔗 [linkedin.com/in/bhuvaneshm-developer](https://www.linkedin.com/in/bhuvaneshm-developer)
-✍️ [dev.to/bhuvaneshm\_dev](https://dev.to/bhuvaneshm_dev)
-📊 [kaggle.com/bhuvaneshm06](https://www.kaggle.com/bhuvaneshm06)
+**Bhuvanesh M**   
+🌐 [bhuvaneshm.in](https://bhuvaneshm.in)   
+🔗 [linkedin.com/in/bhuvaneshm-developer](https://www.linkedin.com/in/bhuvaneshm-developer)   
+✍️ [dev.to/bhuvaneshm\_dev](https://dev.to/bhuvaneshm_dev)   
+📊 [kaggle.com/bhuvaneshm06](https://www.kaggle.com/bhuvaneshm06)   
 
 ---
 
