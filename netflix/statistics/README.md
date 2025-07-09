@@ -30,8 +30,9 @@ It includes **distribution visualizations** for global data and country-specific
 
 ### 🎬 Release Year Distribution
 
-![Release Year - India](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/statistics/India/release_year.png)   
+![Release Year - India](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/statistics/India/release_year.png)      
 [For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/statistics/India)
+
 ---
 
 ## 🇰🇷 South Korea
