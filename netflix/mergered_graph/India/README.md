@@ -9,7 +9,6 @@ This project visualizes the **combined yearly trend of movies and TV shows** rel
 ![Merged Graph - India](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/mergered_graph/India/India.png)
 
 Netflix's Indian content has grown steadily. This chart combines both movie and TV show releases.  
-[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/mergered_graph/India)
 
 ---
 
