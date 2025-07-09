@@ -38,7 +38,6 @@ A consistent contributor to Netflix’s TV content, this graph shows annual U.S.
 
 ## 🐍 Python Script (World Wide)
 
-The data is grouped by country and release year, then plotted using `matplotlib`. Example snippet:
 
 ```python
 import pandas as pd
