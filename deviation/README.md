@@ -37,3 +37,15 @@ This project demonstrates how to generate random data, store it in a binary file
 ---
 
 This setup is useful for understanding the difference between population and sample standard deviation, and for practicing with binary file operations in Python.
+
+
+---
+## 🙋‍♂️ Author
+
+**Bhuvanesh M**   
+🌐 [bhuvaneshm.in](https://bhuvaneshm.in)   
+🔗 [linkedin.com/in/bhuvaneshm-developer](https://www.linkedin.com/in/bhuvaneshm-developer)   
+✍️ [dev.to/bhuvaneshm\_dev](https://dev.to/bhuvaneshm_dev)   
+📊 [kaggle.com/bhuvaneshm06](https://www.kaggle.com/bhuvaneshm06)    
+
+---
