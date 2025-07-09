@@ -25,7 +25,7 @@ data = pd.read_csv("netflix/files/cleaned_netflix.csv")
 data_india = data[data['country'].str.contains('India', na=False)]
 
 print('Graph for total number of TV Shows (series) released per year in Netflix OTT (India only)')
-# Filter for years between 1900 and 2025
+
 filtered_df = data_india[(data_india['release_year'] >= 1900) & (data_india['release_year'] <= 2025)]
 
 tv_per_year = filtered_df[filtered_df['type'] == 'TV Show'].groupby('release_year').size().reset_index(name='total_tv_shows')
