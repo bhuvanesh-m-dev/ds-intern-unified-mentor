@@ -17,7 +17,8 @@ It includes **distribution visualizations** for global data and country-specific
 
 ### 🎬 Release Year Distribution
 
-![Release Year - Global](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/statistics/release_year.png)
+![Release Year - Global](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/statistics/release_year.png)   
+[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/statistics)
 
 ---
 
@@ -29,8 +30,8 @@ It includes **distribution visualizations** for global data and country-specific
 
 ### 🎬 Release Year Distribution
 
-![Release Year - India](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/statistics/India/release_year.png)
-
+![Release Year - India](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/statistics/India/release_year.png)   
+[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/statistics/India)
 ---
 
 ## 🇰🇷 South Korea
@@ -41,7 +42,8 @@ It includes **distribution visualizations** for global data and country-specific
 
 ### 🎬 Release Year Distribution
 
-![Release Year - South Korea](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/statistics/South_Korea/release_year.png)
+![Release Year - South Korea](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/statistics/South_Korea/release_year.png)   
+[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/statistics/South_Korea)
 
 ---
 
@@ -53,7 +55,8 @@ It includes **distribution visualizations** for global data and country-specific
 
 ### 🎬 Release Year Distribution
 
-![Release Year - USA](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/statistics/USA/release_year.png)
+![Release Year - USA](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/statistics/USA/release_year.png)    
+[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/statistics/USA)
 
 ---
 
