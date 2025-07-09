@@ -2,10 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 print('''Disclaimer: The Netflix dataset includes Thunderbolt (1947), a documentary film originally released in 1947, predating Netflix's founding in 1997. This film was added to Netflix’s catalog at a later date as part of their curated content, which may include classic or historical titles. The "release date" in the dataset reflects the original theatrical release, not the date it was adopted by Netflix for streaming.''')
-
-
 
 data = pd.read_csv("netflix/files/cleaned_netflix.csv")
 
@@ -14,7 +11,6 @@ print('Graph for total number of Movies released per year in Netflix OTT')
 
 filtered_df = data[(data['release_year'] >= 1900) & (data['release_year'] <= 2025)]
 
-# Movies per year
 movies_per_year = filtered_df[filtered_df['type'] == 'Movie'].groupby('release_year').size().reset_index(name='total_movies')
 movies_per_year = movies_per_year.sort_values('release_year')
 
