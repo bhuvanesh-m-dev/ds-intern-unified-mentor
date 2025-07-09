@@ -9,7 +9,7 @@ This project focuses on the **yearly trend of movie releases** on the Netflix pl
 ![Movies in India](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/movies_per_year/India/India.png)
 
 This graph highlights the rise of Indian movies on Netflix, year by year.  
-[For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/movies_per_year/India)
+
 
 ---
 
