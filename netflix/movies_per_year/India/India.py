@@ -6,14 +6,12 @@ print('''Disclaimer: The Netflix dataset includes Thunderbolt (1947), a document
 
 data = pd.read_csv("netflix/files/cleaned_netflix.csv")
 
-# Filter for India only
 data_india = data[data['country'].str.contains('India', na=False)]
 
 print('Graph for total number of Movies released per year in Netflix OTT (India only)')
 
 filtered_df = data_india[(data_india['release_year'] >= 1900) & (data_india['release_year'] <= 2025)]
 
-# Movies per year
 movies_per_year = filtered_df[filtered_df['type'] == 'Movie'].groupby('release_year').size().reset_index(name='total_movies')
 movies_per_year = movies_per_year.sort_values('release_year')
 
