@@ -37,3 +37,12 @@ This mini-project is part of my Data Science internship where I worked with the 
 - Ensure this file is in the **same directory** as the Python scripts.
 
 ---
+## 🙋‍♂️ Author
+
+**Bhuvanesh M**   
+🌐 [bhuvaneshm.in](https://bhuvaneshm.in)   
+🔗 [linkedin.com/in/bhuvaneshm-developer](https://www.linkedin.com/in/bhuvaneshm-developer)   
+✍️ [dev.to/bhuvaneshm\_dev](https://dev.to/bhuvaneshm_dev)   
+📊 [kaggle.com/bhuvaneshm06](https://www.kaggle.com/bhuvaneshm06)    
+
+---
