@@ -5,7 +5,7 @@ This project presents **statistical analysis** on two key date fields in the Net
 * **Date Added** to the Netflix platform
 * **Release Year** of the content
 
-It includes **mean**, **median**, and **mode** values, along with **distribution visualizations** for global data and country-specific subsets—India, South Korea, and the USA.
+It includes **distribution visualizations** for global data and country-specific subsets—India, South Korea, and the USA.
 
 ---
 
