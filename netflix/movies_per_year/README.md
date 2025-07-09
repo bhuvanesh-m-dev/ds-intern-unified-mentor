@@ -8,7 +8,7 @@ This project analyzes the **yearly trend of movie releases** on the Netflix plat
 
 ![Movies Worldwide](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/movies_per_year/movies_per_year.png)
 
-This graph illustrates the total number of movies released globally on Netflix, categorized by year.
+This graph illustrates the total number of movies released globally on Netflix, categorized by year.    
 [For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/movies_per_year)
 
 ---
@@ -17,7 +17,7 @@ This graph illustrates the total number of movies released globally on Netflix, 
 
 ![Movies in India](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/movies_per_year/India/India.png)
 
-This graph highlights the rise of Indian movies on Netflix, year by year.
+This graph highlights the rise of Indian movies on Netflix, year by year.    
 [For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/movies_per_year/India)
 
 ---
@@ -26,7 +26,7 @@ This graph highlights the rise of Indian movies on Netflix, year by year.
 
 ![Movies in South Korea](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/movies_per_year/South_Korea/South_Korea.png)
 
-Korean cinema has expanded greatly on Netflix. This plot shows how its presence has evolved over time.
+Korean cinema has expanded greatly on Netflix. This plot shows how its presence has evolved over time.   
 [For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/movies_per_year/South_Korea)
 
 ---
@@ -35,7 +35,7 @@ Korean cinema has expanded greatly on Netflix. This plot shows how its presence 
 
 ![Movies in USA](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/movies_per_year/USA/USA.png)
 
-A major content provider on Netflix, this graph shows yearly releases of American movies.
+A major content provider on Netflix, this graph shows yearly releases of American movies.   
 [For more details.](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix/movies_per_year/USA)
 
 ---
