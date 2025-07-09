@@ -4,15 +4,12 @@ import matplotlib.pyplot as plt
 
 data = pd.read_csv("netflix/files/cleaned_netflix.csv")
 
-# Filter for USA only
 data_usa = data[data['country'].str.contains('United States', na=False)]
 
-# Graph for total number of TV Shows (series) released per year in USA
 print('Graph for total number of TV Shows (series) released per year in Netflix OTT (USA only)')
-# Filter for years between 1900 and 2025
+
 filtered_df = data_usa[(data_usa['release_year'] >= 1900) & (data_usa['release_year'] <= 2025)]
 
-# TV Shows per year
 tv_per_year = filtered_df[filtered_df['type'] == 'TV Show'].groupby('release_year').size().reset_index(name='total_tv_shows')
 tv_per_year = tv_per_year.sort_values('release_year')
 
@@ -24,7 +21,6 @@ plt.ylabel('Total TV Shows Released', fontsize=14)
 plt.title('Total Number of TV Shows Released per Year in USA (1900–2025)', fontsize=16, fontweight='bold')
 plt.legend(fontsize=12)
 
-# Adjust x-axis ticks: every 2 years
 plt.xticks(ticks=range(int(tv_per_year['release_year'].min()), int(tv_per_year['release_year'].max())+1, 2), rotation=45, ha='right')
 
 plt.tight_layout()
