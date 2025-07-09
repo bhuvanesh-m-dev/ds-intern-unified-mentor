@@ -14,3 +14,15 @@ This project visualizes the usage distribution of various social media platforms
 
 The dataset used in this project is provided by **Adil Shamim** on Kaggle. Adil Shamim is known for sharing insightful datasets related to social trends and behaviors.  
 You can find the original dataset and more information in his Kaggle post: https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
+
+
+---
+## 🙋‍♂️ Author
+
+**Bhuvanesh M**   
+🌐 [bhuvaneshm.in](https://bhuvaneshm.in)   
+🔗 [linkedin.com/in/bhuvaneshm-developer](https://www.linkedin.com/in/bhuvaneshm-developer)   
+✍️ [dev.to/bhuvaneshm\_dev](https://dev.to/bhuvaneshm_dev)   
+📊 [kaggle.com/bhuvaneshm06](https://www.kaggle.com/bhuvaneshm06)    
+
+---
