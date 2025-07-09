@@ -8,13 +8,12 @@ This project analyzes the **yearly trend of TV show releases** on the Netflix pl
 
 ![TV Shows in USA](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/netflix/img/TV_Shows_per_year/USA/USA.png)
 
-This graph highlights the annual trend of U.S.-produced series released on Netflix.
+This graph highlights the annual trend of U.S.A TV Shows released on Netflix.
 
 ---
 
 ## 🐍 Python Script (Overview)
 
-The data is filtered for U.S. content and grouped by release year, then plotted using `matplotlib`. Example snippet:
 
 ```python
 import pandas as pd
