@@ -14,7 +14,6 @@ This graph highlights the rise of Indian series on Netflix, year by year.
 
 ## 🐍 Python Script (Overview)
 
-The data is filtered for Indian content and grouped by release year, then plotted using `matplotlib`. Example snippet:
 
 ```python
 import pandas as pd
@@ -59,9 +58,9 @@ plt.show()
 ## 🙋‍♂️ Author
 
 **Bhuvanesh M**
-🌐 [bhuvaneshm.in](https://bhuvaneshm.in)
-🔗 [linkedin.com/in/bhuvaneshm-developer](https://www.linkedin.com/in/bhuvaneshm-developer)
-✍️ [dev.to/bhuvaneshm\_dev](https://dev.to/bhuvaneshm_dev)
-📊 [kaggle.com/bhuvaneshm06](https://www.kaggle.com/bhuvaneshm06)
+🌐 [bhuvaneshm.in](https://bhuvaneshm.in)   
+🔗 [linkedin.com/in/bhuvaneshm-developer](https://www.linkedin.com/in/bhuvaneshm-developer)   
+✍️ [dev.to/bhuvaneshm\_dev](https://dev.to/bhuvaneshm_dev)   
+📊 [kaggle.com/bhuvaneshm06](https://www.kaggle.com/bhuvaneshm06)   
 
 ---
