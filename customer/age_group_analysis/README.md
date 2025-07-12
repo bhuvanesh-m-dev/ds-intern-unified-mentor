@@ -71,7 +71,7 @@ plt.show()
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋‍♂️ BHUVANESH M 
 
 **Bhuvanesh M**   
 🌐 [bhuvaneshm.in](https://bhuvaneshm.in)   
