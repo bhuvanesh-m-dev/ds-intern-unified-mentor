@@ -32,7 +32,7 @@ The boxplot helps visualize:
 * **Used for detecting anomalies**
 * **Represents middle 50%** of data
 ---
-## 🙋‍♂️ Author
+## 🙋‍♂️ BHUVANESH M 
 
 **Bhuvanesh M**   
 🌐 [bhuvaneshm.in](https://bhuvaneshm.in)   
