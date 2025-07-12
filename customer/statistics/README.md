@@ -41,9 +41,9 @@ Mode Customer Age: 30.00
 ```
 
 ---
-## 🙋‍♂️ Author
+## 🙋‍♂️ BHUVANESH M 
 
-**Bhuvanesh M**   
+
 🌐 [bhuvaneshm.in](https://bhuvaneshm.in)   
 🔗 [linkedin.com/in/bhuvaneshm-developer](https://www.linkedin.com/in/bhuvaneshm-developer)   
 ✍️ [dev.to/bhuvaneshm\_dev](https://dev.to/bhuvaneshm_dev)   
