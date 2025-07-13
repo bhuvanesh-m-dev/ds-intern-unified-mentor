@@ -25,14 +25,14 @@ This repository contains all the project folders, scripts, datasets, and outputs
 
 | 📁 Project Title                     | 🔗 GitHub Folder Link |
 |-------------------------------------|------------------------|
-| Netflix Data Analysis               | [Netflix](./tree/main/netflix) |
-| Customer Satisfaction Prediction    | [Customer](./tree/main/customer) |
-| Boxplot with IQR                    | [Boxplot](./tree/main/boxplot_with_iqr) |
-| Standard Deviation Comparison       | [Deviation](./tree/main/deviation) |
-| Folium Map Visualization            | [Folium](./tree/main/folium) |
-| Social Media Usage Pie Chart        | [Pie Chart](./tree/main/pie_chart) |
-| Wine Data Analysis                  | [Wine](./tree/main/wine) |
-| NumPy & Statistics Practice         | [Statistics](./tree/main/statistics) |
+| Netflix Data Analysis               | [Netflix](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/netflix) |
+| Customer Satisfaction Prediction    | [Customer](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/customer) |
+| Boxplot with IQR                    | [Boxplot](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/boxplot_with_iqr) |
+| Standard Deviation Comparison       | [Standard Deviation](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/deviation) |
+| Folium Map Visualization            | [Folium](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/folium) |
+| Social Media Usage Pie Chart        | [Pie Chart](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/pie_chart) |
+| Wine Data Analysis                  | [Wine Data Analysis](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/statistics) |
+
 
 ---
 
@@ -42,9 +42,8 @@ This repository contains all the project folders, scripts, datasets, and outputs
 
 ---
 
-## 🙋‍♂️ Author
-
-**Bhuvanesh M**  
+## 🙋‍♂️ BHUVANESH M
+ 
 🌐 [bhuvaneshm.in](https://bhuvaneshm.in)  
 📧 [bhuvaneshm.developer@gmail.com](mailto:bhuvaneshm.developer@gmail.com)  
 🔗 [linkedin.com/in/bhuvaneshm-developer](https://linkedin.com/in/bhuvaneshm-developer)  
@@ -52,6 +51,3 @@ This repository contains all the project folders, scripts, datasets, and outputs
 
 ---
 
-## 📄 License
-
-This repository and its contents are open-sourced under the [MIT License](LICENSE).
