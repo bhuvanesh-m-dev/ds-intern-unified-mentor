@@ -38,7 +38,7 @@ This repository contains all the project folders, scripts, datasets, and outputs
 
 ## 📝 Final Reflection
 
-> “This internship has provided a solid foundation in Data Science. I’ve gained practical experience in data wrangling, visualization, statistical analysis, and professional project documentation. I sincerely thank **Unified Mentor** for this incredible learning opportunity.”
+> This internship has provided a solid foundation in Data Science. I’ve gained practical experience in data wrangling, visualization, statistical analysis, and professional project documentation. I sincerely thank **Unified Mentor** for this incredible learning opportunity.
 
 ---
 
