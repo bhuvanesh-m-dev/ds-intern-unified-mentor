@@ -35,9 +35,9 @@ The output will display the:
 Example output:
 
 ```
-Mean Customer Age: 35.42
-Median Customer Age: 34.00
-Mode Customer Age: 30.00
+Mean Customer Age: 44.33
+Median Customer Age: 45.00
+Mode Customer Age: 34.00
 ```
 
 ---
