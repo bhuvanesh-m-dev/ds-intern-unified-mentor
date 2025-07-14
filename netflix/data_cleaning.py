@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-data_by_csv=pd.read_csv("/home/bhuvanesh-m-ubuntu/Desktop/Netflix/files/netflix.csv")
+data_by_csv=pd.read_csv("netflix.csv")
 data_by_csv.head() # default for first 5 rows
 
 
@@ -28,4 +28,4 @@ data
 
 
 
-data.to_csv("/home/bhuvanesh-m-ubuntu/Desktop/Netflix/files/cleaned_netlix.csv",index=False)
+data.to_csv("cleaned_netflix.csv",index=False)
