@@ -4,6 +4,19 @@ Welcome to my Data Science Internship repository! This portfolio showcases the h
 
 ---
 
+### 📘 Jupyter Notebook Access
+
+👀 **Want to explore the Jupyter Notebook (`.ipynb`) code files?**  
+Head over to the folder here:  
+🔗 [View Notebooks on GitHub](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/storage/ipynb)
+
+📥 **Prefer to download all `.ipynb` files at once?**  
+Click the link below to download a ZIP file of the notebooks:  
+⬇️ [Download ipynb.zip](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/raw/main/storage/ipynb/ipynb.zip)
+
+
+---
+
 ## 📂 About This Repository
 
 This repository contains all the project folders, scripts, datasets, and outputs associated with my internship.  
