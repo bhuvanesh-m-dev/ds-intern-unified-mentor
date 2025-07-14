@@ -11,7 +11,7 @@ Head over to the folder here:
 🔗 [View Notebooks on GitHub](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/tree/main/storage/ipynb)
 
 📥 **Prefer to download all `.ipynb` files at once?**  
-Click the link below to download a ZIP file of the notebooks:
+Click the link to download a ZIP file of the notebooks:
 ⬇️ [Download ipynb.zip](https://github.com/bhuvanesh-m-dev/ds-intern-unified-mentor/raw/main/storage/ipynb/ipynb.zip)
 
 
