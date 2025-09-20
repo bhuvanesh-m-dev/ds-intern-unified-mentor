@@ -6,7 +6,7 @@ Here, I learned how to use the `folium` library in Python to generate interactiv
 ---
 
 
-[![Map Preview](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/folium/map-image/chennai-map-folium.png)](https://bhuvaneshm.in/internships/data-science/storage/map-by-folium/)
+[![Map Preview](https://raw.githubusercontent.com/bhuvanesh-m-dev/ds-intern-unified-mentor/refs/heads/main/folium/map-image/chennai-map-folium.png)](https://bhuvanesh-m-dev.github.io/internships/data-science/storage/map-by-folium/)
 
 
 ---
