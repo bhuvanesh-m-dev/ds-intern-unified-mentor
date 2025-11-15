@@ -1,6 +1,8 @@
 # 📊 Data Science Internship Portfolio – Unified Mentor
 
 Welcome to my Data Science Internship repository! This portfolio showcases the hands-on projects, tools, and learnings I gained during my internship at **Unified Mentor** in June–July 2025.
+🔗 Verified Certificate: [Click Here](https://unifiedmentor.com/verify-certificate/UMID10062542133)
+
 
 ---
 
