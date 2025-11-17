@@ -86,8 +86,8 @@ During this intensive internship, I honed my skills in:
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/bhuvanesh-m-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square&logo=internet-explorer)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/bhuvaneshm-developer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square&logo=internet-explorer)](https://bhuvaneshm.in)
 
 ---
 
