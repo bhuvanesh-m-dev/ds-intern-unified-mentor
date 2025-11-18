@@ -55,12 +55,7 @@ During this intensive internship, I honed my skills in:
    - Generated insightful visualizations
    - Derived actionable business insights
 
-2. **Predictive Modeling**
-   - Built and trained machine learning models
-   - Implemented regression and classification algorithms
-   - Optimized model performance
-
-3. **Data Cleaning & Preprocessing**
+2. **Data Cleaning & Preprocessing**
    - Handled missing values and outliers
    - Feature engineering and selection
    - Data normalization techniques
@@ -79,7 +74,7 @@ During this intensive internship, I honed my skills in:
 
 ## 🌟 Testimonial
 
-> "This internship provided me with hands-on experience in real-world data science challenges. The mentorship and project-based learning approach helped me bridge the gap between theoretical knowledge and practical implementation."
+> This internship provided me with hands-on experience in real-world data science challenges. The mentorship and project-based learning approach helped me bridge the gap between theoretical knowledge and practical implementation.
 
 ---
 
